@@ -11,6 +11,6 @@ F= inline(char(f));
 liinf=-3;
 lisu=3;
 y=int(f,x)
-disp ("RESULTADO: ");
+disp ("Total es    : ")
 F=int(f,liinf,lisu)
 ezplot (y)
